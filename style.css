@@ -1,0 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:ital,wght@0,100;
+0,300;0,400;0,900;1,400&family=Satisfy&display=swap'); */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vw;
+    width: 50vh;
+    justify-content: center;
+    align-items: center;
+}
